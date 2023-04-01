@@ -317,7 +317,7 @@ header
 }
 
 .header-area .main-nav .logo h4 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 800;
     text-transform: capitalize;
     color: #fff;
@@ -934,6 +934,7 @@ Features Style
 */
 
 #features {
+  margin-top: 70px;
   padding-top: 130px;
 }
 
@@ -1019,6 +1020,14 @@ Features Style
 
 .second-feature .icon {
   background-image: url(../images/features-icon-black-02.png);
+}
+
+.third-feature .icon {
+  background-image: url(../images/features-icon-black-03.png);
+}
+
+.forth-feature .icon {
+  background-image: url(../images/features-icon-black-04.png);
 }
 
 .features-item .icon {
